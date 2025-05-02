@@ -2,3 +2,6 @@ This is my first file of learning git
 
 
 this is second git note
+
+
+this is third chnages
